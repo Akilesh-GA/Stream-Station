@@ -38,7 +38,7 @@ cd build/windows/x64/runner/Release
 ./cryptocore_gpu.exe
 
 
-### 📁 Folder Structure
+📁 Folder Structure
 
 /lib
 └── main.dart # Main application UI and logic
@@ -47,12 +47,12 @@ cd build/windows/x64/runner/Release
 /build # Build output (ignored by version control)
 
 
-### 🌐 Resources
--📚 Flutter Documentation
--🎮 Sunshine - Game Stream Host
--📱 Moonlight Streaming Client
--🧰 ViGEmBus - Gamepad support (optional)
+🌐 Resources
+📚 Flutter Documentation
+🎮 Sunshine - Game Stream Host
+📱 Moonlight Streaming Client
+🧰 ViGEmBus - Gamepad support (optional)
 
-###🤝 Contributing
--Contributions, pull requests, and feedback are welcome!
--Feel free to fork the repository, improve features, fix bugs, or propose new ideas.
+🤝 Contributing
+Contributions, pull requests, and feedback are welcome!
+Feel free to fork the repository, improve features, fix bugs, or propose new ideas.
